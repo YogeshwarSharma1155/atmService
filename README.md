@@ -11,5 +11,5 @@ To fetch the List of ATM's on the basis of Cities please use the URL below:
 
 http://localhost:8080/allAtm/{cityName}
 eg:
-http://localhost:8080/allAtm/Rotterdam
+http://localhost:8080/allAtm/Rotterdam or  
 http://localhost:8080/allAtm/Weiteveen
